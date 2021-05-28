@@ -1,5 +1,7 @@
 # Introduction
 
+My new thesis
+
 ## Simple figure
 
 Here is a simple figure.
