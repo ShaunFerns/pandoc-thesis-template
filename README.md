@@ -1,7 +1,6 @@
 pandoc-thesis-template
 ======================
 
-
 A template for creating a degree project thesis in markdown + pandoc
 
 ## Example of what you can generate EASILY
